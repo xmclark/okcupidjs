@@ -1,0 +1,12 @@
+{
+  "name": "okcupidjs-example-quickmatch",
+  "description": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "okcupidjs": "file:../../../okcupidjs"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
